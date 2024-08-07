@@ -1,3 +1,5 @@
 packages:
   - package: fivetran/apple_store_source
     version: 0.4.0
+  - package: fivetran/ad_reporting
+    version: 1.9.0
